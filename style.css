@@ -1,0 +1,36 @@
+#main {
+  margin-top: 10px;
+  width: 100%;
+  height: fit-content;
+  border: 1px solid rgb(209, 181, 181);
+}
+#one {
+  margin: 15px;
+  display: inline-block;
+}
+.branch {
+  height: 0px;
+}
+.para {
+  text-align: justify;
+  font-size: 15px;
+}
+#second {
+  position: absolute;
+  left: 15px;
+}
+#centernews {
+  text-align: center;
+  color: brown;
+  font-weight: bold;
+  line-height: 28px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#last {
+  font-weight: bold;
+  color: brown;
+  margin-top: -10px;
+  margin-bottom: 4px;
+  text-align: center;
+}
